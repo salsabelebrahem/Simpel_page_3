@@ -1,0 +1,67 @@
+*{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    background-color: bisque;
+}
+
+.all{
+    background-color: blue;
+}
+
+#one{
+    background-color: cadetblue;
+}
+
+ul li{
+    background-color: chartreuse;
+}
+
+ol li{
+    color:brown;
+}
+
+a[href^="#ss"] {
+    background-color: chartreuse;
+}
+
+a[href$="html"] {
+    color:yellow;
+}
+
+img{
+    width: 40%;
+    height: 550px;
+}
+.img1{
+    margin: 10px;
+}
+
+.too{
+    text-shadow: 5px 5px 5px rgb(11, 114, 159); 
+    font-size: 30px;
+}
+
+.hh{
+    text-shadow:-5px -5px 5px -5px rgb(138, 84, 156); 
+    font-size: 30px;
+}
+
+.ll{
+    text-shadow:1px 1px 1px rgb(234, 255, 44); 
+    font-size: 30px;
+}
+
+.xc{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    box-shadow: 5px 5px 10px 0 red;
+}
+
+.re{
+    background-color: brown;
+}
